@@ -1,0 +1,21 @@
+{
+  "name": "Путешествия по Москве",
+  "description": "Нажми чтобы попасть на случайную панораму в пределах МКАД!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/map16.png",
+      "32": "/images/map32.png",
+      "48": "/images/map48.png",
+      "128": "/images/map128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/map16.png",
+    "32": "/images/map32.png",
+    "48": "/images/map48.png",
+    "128": "/images/map128.png"
+  }
+}
